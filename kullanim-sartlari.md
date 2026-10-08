@@ -52,7 +52,7 @@ küçük kullanıcılara gösterilmez.
 - Kurallara aykırı içerikleri ve kullanıcıları uygulama içinden bildirebilir, kullanıcıları
   engelleyebilirsin.
 - Kurallara aykırı içerikleri kaldırabilir; hesaplara uyarı verebilir, kısıtlama getirebilir veya
-  hesabı kapatabiliriz. Kararlara itiraz için {{ILETISIM_EPOSTA}} adresine yazabilirsin.
+  hesabı kapatabiliriz. Kararlara itiraz için sungu.aysenur@gmail.com adresine yazabilirsin.
 
 ## 5. Abonelikler ve satın almalar
 
