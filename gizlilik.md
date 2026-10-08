@@ -5,7 +5,7 @@ permalink: /gizlilik/
 
 # Gizlilik Politikası
 
-**Yürürlük tarihi:** {{YURURLUK_TARIHI}}
+**Yürürlük tarihi:** 08.10.2026
 
 Bu politika, Dippen mobil uygulaması ve dippen.com.tr üzerinden sunulan hizmetlerde ("Dippen")
 kişisel verilerinin nasıl işlendiğini açıklar. Türkiye'deki kullanıcılar için 6698 sayılı Kişisel
@@ -15,9 +15,9 @@ bakabilirsin.
 
 ## 1. Veri sorumlusu
 
-{{VERI_SORUMLUSU_UNVAN}}
-Adres: {{ADRES}}
-E-posta: {{ILETISIM_EPOSTA}}
+Aysenur Sungu
+Adres: Kağıthane, İstanbul
+E-posta: sungu.aysenur@gmail.com
 
 ## 2. Hangi verileri işliyoruz?
 
@@ -82,7 +82,7 @@ GDPR'ın V. bölümü kapsamında, standart sözleşmeler ve gerekli diğer güv
   silinir veya anonimleştirilir.
 - **Yayımladığın içerikler:** hikâyelerin ve bölümlerin hesabınla birlikte kalıcı olarak silinir.
   Yorumların silinmez; "silinmiş kullanıcı" adıyla, seninle ilişkilendirilmeden kalır.
-- **Güvenlik ve oturum kayıtları:** en fazla {{GUVENLIK_KAYIT_SURESI}}.
+- **Güvenlik ve oturum kayıtları:** en fazla 1 yıl.
 - **Satın alma kayıtları:** mali mevzuatın öngördüğü süre boyunca.
 - **Kötüye kullanım ve moderasyon kayıtları:** tekrarı önlemek için gerektiği süre boyunca.
 
@@ -97,7 +97,7 @@ KVKK m.11 ve GDPR m.15–22 kapsamında:
 - Kişisel Verileri Koruma Kurulu'na veya bulunduğun AB ülkesinin veri koruma otoritesine şikâyette bulunma
 haklarına sahipsin.
 
-Başvurularını **{{ILETISIM_EPOSTA}}** adresine gönderebilirsin. Talebin en geç 30 gün içinde yanıtlanır.
+Başvurularını **sungu.aysenur@gmail.com** adresine gönderebilirsin. Talebin en geç 30 gün içinde yanıtlanır.
 
 ## 9. Hesabını silme
 
