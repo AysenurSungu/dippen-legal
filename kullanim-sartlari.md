@@ -5,10 +5,10 @@ permalink: /kullanim-sartlari/
 
 # Kullanım Şartları ve İçerik Kuralları
 
-**Yürürlük tarihi:** {{YURURLUK_TARIHI}}
+**Yürürlük tarihi:** 08.10.2026
 
 Dippen'i ("Hizmet") kullanarak bu şartları kabul etmiş olursun. Hizmet
-{{VERI_SORUMLUSU_UNVAN}} tarafından sunulur.
+Aysenur Sungu tarafından sunulur.
 
 ## 1. Hesap
 
@@ -83,4 +83,4 @@ Cumhuriyeti hukuku uygulanır. Tüketici olarak bulunduğun ülkenin zorunlu tü
 
 ## 9. İletişim
 
-{{VERI_SORUMLUSU_UNVAN}} · {{ADRES}} · {{ILETISIM_EPOSTA}}
+Aysenur Sungu · Kağıthane,İstanbul · sungu.aysenur@gmail.com
