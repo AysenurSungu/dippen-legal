@@ -102,7 +102,7 @@ Başvurularını **sungu.aysenur@gmail.com** adresine gönderebilirsin. Talebin 
 ## 9. Hesabını silme
 
 Uygulamada **Ayarlar → Hesabı Sil** adımlarıyla ya da
-[dippen.com.tr/account/delete](https://dippen.com.tr/account/delete) adresinden hesabını silebilirsin.
+[hesap silme sayfasından](../hesap-silme/) adresinden hesabını silebilirsin.
 
 ## 10. Çocuklar
 
