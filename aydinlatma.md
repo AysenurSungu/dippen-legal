@@ -8,7 +8,7 @@ permalink: /aydinlatma/
 **Yürürlük tarihi:** 08.10.2026
 
 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, veri sorumlusu
-sıfatıyla {{VERI_SORUMLUSU_UNVAN}} ("Dippen") olarak seni aşağıdaki konularda bilgilendiririz.
+sıfatıyla Aysenur Sungu ("Dippen") olarak seni aşağıdaki konularda bilgilendiririz.
 
 ## 1. Veri sorumlusu
 
