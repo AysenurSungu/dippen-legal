@@ -102,7 +102,7 @@ Başvurularını **sungu.aysenur@gmail.com** adresine gönderebilirsin. Talebin 
 ## 9. Hesabını silme
 
 Uygulamada **Ayarlar → Hesabı Sil** adımlarıyla ya da
-[hesap silme sayfasından](../hesap-silme/) adresinden hesabını silebilirsin.
+[hesap silme sayfasındaki](../hesap-silme/) adımlarla hesabını silebilirsin.
 
 ## 10. Çocuklar
 
