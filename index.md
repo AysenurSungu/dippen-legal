@@ -12,4 +12,4 @@ permalink: /
 Hesabını silmek için: uygulamada **Ayarlar → Hesabı Sil** ya da
 [dippen.com.tr/account/delete](https://dippen.com.tr/account/delete).
 
-İletişim: {{ILETISIM_EPOSTA}}
+İletişim: sungu.aysenur@gmail.com
