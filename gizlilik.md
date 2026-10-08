@@ -15,8 +15,8 @@ bakabilirsin.
 
 ## 1. Veri sorumlusu
 
-Aysenur Sungu
-Adres: Kağıthane, İstanbul
+Aysenur Sungu  
+Adres: Kağıthane, İstanbul  
 E-posta: sungu.aysenur@gmail.com
 
 ## 2. Hangi verileri işliyoruz?

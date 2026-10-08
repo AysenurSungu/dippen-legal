@@ -83,4 +83,4 @@ Cumhuriyeti hukuku uygulanır. Tüketici olarak bulunduğun ülkenin zorunlu tü
 
 ## 9. İletişim
 
-Aysenur Sungu · Kağıthane,İstanbul · sungu.aysenur@gmail.com
+Aysenur Sungu · Kağıthane, İstanbul · sungu.aysenur@gmail.com

@@ -12,8 +12,8 @@ sıfatıyla Aysenur Sungu ("Dippen") olarak seni aşağıdaki konularda bilgilen
 
 ## 1. Veri sorumlusu
 
-Aysenur Sungu
-Adres: Kağıthane, İstanbul
+Aysenur Sungu  
+Adres: Kağıthane, İstanbul  
 E-posta: sungu.aysenur@gmail.com
 
 ## 2. İşlenen kişisel veriler
