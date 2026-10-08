@@ -8,8 +8,9 @@ permalink: /
 - [Gizlilik Politikası](gizlilik/) — Privacy Policy (KVKK + GDPR)
 - [KVKK Aydınlatma Metni](aydinlatma/)
 - [Kullanım Şartları ve İçerik Kuralları](kullanim-sartlari/) — Terms of Use
+- [Hesap Silme](hesap-silme/) — Account deletion
 
 Hesabını silmek için: uygulamada **Ayarlar → Hesabı Sil** ya da
-[dippen.com.tr/account/delete](https://dippen.com.tr/account/delete).
+[hesap silme sayfası](hesap-silme/).
 
 İletişim: sungu.aysenur@gmail.com
