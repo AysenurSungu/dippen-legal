@@ -5,16 +5,16 @@ permalink: /aydinlatma/
 
 # Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni
 
-**Yürürlük tarihi:** {{YURURLUK_TARIHI}}
+**Yürürlük tarihi:** 08.10.2026
 
 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, veri sorumlusu
 sıfatıyla {{VERI_SORUMLUSU_UNVAN}} ("Dippen") olarak seni aşağıdaki konularda bilgilendiririz.
 
 ## 1. Veri sorumlusu
 
-{{VERI_SORUMLUSU_UNVAN}}
-Adres: {{ADRES}}
-E-posta: {{ILETISIM_EPOSTA}}
+Aysenur Sungu
+Adres: Kağıthane, İstanbul
+E-posta: sungu.aysenur@gmail.com
 
 ## 2. İşlenen kişisel veriler
 
@@ -66,5 +66,5 @@ g) münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhine bir sonucun
 ğ) kanuna aykırı işleme sebebiyle zarara uğraman hâlinde zararın giderilmesini talep etme
 haklarına sahipsin.
 
-Başvurunu **{{ILETISIM_EPOSTA}}** adresine, kayıtlı e-posta adresinden gönderebilirsin. Başvurular
+Başvurunu **sungu.aysenur@gmail.com** adresine, kayıtlı e-posta adresinden gönderebilirsin. Başvurular
 en geç **30 gün** içinde ücretsiz olarak sonuçlandırılır.
